@@ -56,15 +56,23 @@
 		48E17B1824FF98D400583C62 /* EasyBrowser */ = {
 			isa = PBXGroup;
 			children = (
-				48E17B1924FF98D400583C62 /* AppDelegate.swift */,
-				48E17B1B24FF98D400583C62 /* SceneDelegate.swift */,
+				48E17B2F24FF9D2900583C62 /* Support Files */,
 				48E17B1D24FF98D400583C62 /* ViewController.swift */,
 				48E17B1F24FF98D400583C62 /* Main.storyboard */,
+			);
+			path = EasyBrowser;
+			sourceTree = "<group>";
+		};
+		48E17B2F24FF9D2900583C62 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				48E17B1924FF98D400583C62 /* AppDelegate.swift */,
+				48E17B1B24FF98D400583C62 /* SceneDelegate.swift */,
 				48E17B2224FF98D600583C62 /* Assets.xcassets */,
 				48E17B2424FF98D600583C62 /* LaunchScreen.storyboard */,
 				48E17B2724FF98D600583C62 /* Info.plist */,
 			);
-			path = EasyBrowser;
+			name = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
